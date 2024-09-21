@@ -1,0 +1,66 @@
+/*ARMONIZACIÓN ANIMAL*/
+    
+    
+.card-img{
+    padding-top: 50px;
+    height: 440px;
+}
+
+    .armonizacion-titulo h1{
+        font-family: "Source Serif 4", serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        padding-top: 10px;
+        text-align: center;
+        }
+
+    .armonizacion-subtitulo h2{
+        font-family: "Source Serif 4", serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        text-align: center;
+        font-size:large;
+        }  
+
+        .armonizacion-parrafo p{
+            text-align: justify;
+            padding-left: 50px;
+            padding-right: 50px
+        }
+
+    .armonizacion-lista{
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: justify;
+    }
+
+    .armonizacion-titulolista{
+        font-family:"Dancing Script", system-ui;
+        font-size:larger;
+        font-weight: bolder;   
+    }
+
+    
+    
+    /*Boton FLOTANTE de WHATSAAP*/
+    .whatsapp {
+        position:fixed;
+        width: 45px;
+        height:45px;
+        bottom:40px;
+        right:40px;
+        background-color:#25d366;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+        font-size:28px;
+        z-index:100;
+        text-align: center;
+      }
+      
+      .whatsapp-icon {
+        margin-top:13px;
+        text-align: center;
+      }

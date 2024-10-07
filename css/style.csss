@@ -453,24 +453,17 @@ input textarea {
   padding-right: 10px;
 }
 
-.titulo-card {
-  text-align: center;
-}
-
-/*
-.c-registro{
+.c-registro {
   padding-left: 80px;
   margin-right: 80px;
   padding-top: 30px;
-
-
 }
 
-.libro-img{
-  padding:50px;  
+.libro-img {
+  padding: 50px;
   width: 400px;
 }
-*/
+
 .mujer-img {
   padding: 50px;
   height: 500px;
@@ -482,79 +475,11 @@ input textarea {
 
 .texto-card-registro {
   text-align: justify;
+  padding-right: 80px;
+  padding-top: 80px;
   line-height: 1.9;
 }
 
-/*Imagen Resposive centrada*/
-@media screen and (min-width: 0px) and (max-width: 600px) {
-  .card-dos {
-    width: 100%;
-    display: block;
-    padding-left: 0%;
-    padding-right: 0%;
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-  }
-}
-@media screen and (min-width: 0px) and (max-width: 600px) {
-  .libro-img {
-    width: 75%;
-    display: block;
-    padding-left: 0%;
-    padding-right: 11%;
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-  }
-}
-@media screen and (min-width: 0px) and (max-width: 600px) {
-  .texto-card-registro {
-    width: 100%;
-    display: block;
-    padding-left: 10%;
-    padding-right: -20%;
-    padding-bottom: 0%;
-    margin-bottom: -5%;
-    padding-top: 0%;
-    margin-top: -30%;
-  }
-}
-@media screen and (min-width: 0px) and (max-width: 600px) {
-  .titulo-car {
-    width: 100%;
-    display: block;
-    padding-left: 40%;
-    padding-right: -20%;
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-    padding-top: 0%;
-    margin-top: 0%;
-    margin-left: 20%;
-    border-top: 0%;
-  }
-}
-@media screen and (min-width: 0px) and (max-width: 600px) {
-  .mujer-img {
-    width: 75%;
-    height: 75%;
-    display: block;
-    padding-left: 0%;
-    padding-right: 11%;
-    padding-top: 0%;
-    margin-bottom: 0%;
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-  }
-}
-@media screen and (min-width: 0px) and (max-width: 600px) {
-  .subtit {
-    width: 100%;
-    display: block;
-    margin-bottom: 0%;
-    padding-bottom: 0%;
-    text-align: center;
-    font-size: small;
-  }
-}
 /*Boton FLOTANTE de WHATSAAP*/
 .whatsapp {
   position: fixed;
@@ -589,8 +514,8 @@ input textarea {
 .yoga-parrafo p {
   text-align: justify; /* justificar el texto de CARD*/
   line-height: 2em; /*INTERLINEADO DE TEXTO*/
-  padding-left: 60px;
-  padding-right: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .yoga-titulo h1 {
@@ -637,4 +562,4 @@ input textarea {
   text-align: center;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.csss.map */
